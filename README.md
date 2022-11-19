@@ -1,6 +1,5 @@
 -Hello, I'm a fullstack-softwear engineer @ 100Devs;
 -🔭 I’m currently working on Codewars, HTML, CSS, JavaScript
--😄 Pronouns: her/she. 
 -&#128161;I'm a passionate learner who's always willing to learn and work across different languages and domains  
 -⚡ Fun fact: Love Mexican Golden Age Cinema.
 
