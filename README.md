@@ -1,5 +1,5 @@
--Hello, I'm a fullstack-software engineer;
--🔭 I’m currently working on Node.js, Express, React, JavaScript, HTML, CSS, 
+-Hello, I'm a software engineer;
+-🔭 I’m currently working on Node.js, Express, React, JavaScript, TypeScript, Java, and C++ 
 -&#128161;I'm a passionate learner who's always willing to learn and work across different languages and domains  
 -⚡ Fun fact: Love Mexican Golden Age Cinema.
 
