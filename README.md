@@ -1,6 +1,6 @@
 -Hello, I'm a software engineer;
 -🔭 I’m currently working on .NET, Angular, ASP.NET
--&#128161;I'm a passionate learner who's always willing to learn and work across different languages and domains  
+-&#128161;I'm a passionate learner who's always willing to learn and work across different languages and domains.  
 -⚡ Fun fact: Love Mexican Golden Age Cinema.
 
 <!--
