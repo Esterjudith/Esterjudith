@@ -1,5 +1,5 @@
 -Hello, I'm a software engineer;
--🔭 I’m currently working on .NET, Angular, and AI
+-🔭 I’m currently working on .NET, Angular, and AI   
 -&#128161; I'm a passionate learner who's always willing to learn and work across different languages and domains.  
 -⚡ Fun fact: Love Mexican Golden Age Cinema.
 
